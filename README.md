@@ -13,8 +13,8 @@
 ## <h2 align="center" dir="auto"> Game Detail </h2> 
 <h3 align="center" dir="auto"><strong>Genre: <code>First-Person Shooter</code> <code>Survival</code> <code>Horror</code></strong></h3>
 
+## <h2 align="center" dir="auto"> Images </h2> 
 ![Screenshot 2024-10-14 092804](https://github.com/user-attachments/assets/fdd8e99e-c96c-47d3-a5d4-6990c25f54ff)
 ![Screenshot 2024-10-14 092519](https://github.com/user-attachments/assets/46cd8b18-165e-4dd2-b996-53085e76fd8c)
 ![Screenshot 2024-10-14 093048](https://github.com/user-attachments/assets/7edad9c7-3962-4279-8e1f-e81bf4186370)
-![Screenshot 2024-10-14 095225](https://github.com/user-attachments/assets/3453ca42-c54a-4fa4-be5e-19e03a074f78)
-![Screenshot 2024-10-14 093221](https://github.com/user-attachments/assets/70d9595c-7c06-4021-953c-09c42d96614e)
+
